@@ -3,4 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Things to add
 - [ ] override stuff
 - [ ] repeats / rows
-- [ ] respnosive
+- [ ] responsive
+- [ ] document
+
