@@ -3,9 +3,9 @@
   "description": "Copied source from https://github.com/styled-components/styled-components#basic.",
   "version": "0.0.32",
   "dependencies": {
-    "styled-components": "2.1.0",
+    "react": "15.6.1",
     "react-dom": "15.6.1",
-    "react": "15.6.1"
+    "styled-components": "^2.2.3"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
